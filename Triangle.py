@@ -1,12 +1,10 @@
+# Triangle.py
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan 14 13:44:00 2016
-Updated Jan 21, 2018
-
+Updated Oct 27, 2025
 The primary goal of this file is to demonstrate a simple python program to classify triangles
 
-@author: jrr
-@author: rk
+@author: Jared Simonetti
 """
 
 def classifyTriangle(a,b,c):
